@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f920b43-3760-4396-a812-831429ea781c" name="Default Changelist" comment="0.1">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/FrontEnd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/mock-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/404_images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/404_images/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Charts/eventType.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Charts/hotCommunities.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Charts/mixins/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Charts/streetEvent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hamburger/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/charts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/eventtype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/example.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/eye-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/form.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/hotcommunities.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/nested.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/streetevent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svg/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/Link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/mixin/ResizeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/modules/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/get-page-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/charts/EventType.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/charts/HotCommunities.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/charts/StreetEvent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/components/Breadcrumb.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/components/Hamburger.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/components/SvgIcon.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/utils/formatTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/utils/parseTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/utils/validate.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FrontEnd" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1SPpzYtGPiwbN7zSWh7ZV9IihIa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowFavorites.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mock" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\FrontEnd\mock" />
+      <recent name="E:\FrontEnd\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\FrontEnd\static" />
+      <recent name="E:\FrontEnd" />
+      <recent name="E:\FrontEnd\mock" />
+      <recent name="E:\FrontEnd\src\components\Charts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f920b43-3760-4396-a812-831429ea781c" name="Default Changelist" comment="" />
+      <created>1571475347918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571475347918</updated>
+      <workItem from="1571475349009" duration="24630000" />
+      <workItem from="1571655105298" duration="323000" />
+      <workItem from="1571657333869" duration="9864000" />
+      <workItem from="1571739375514" duration="7251000" />
+      <workItem from="1572347752724" duration="2397000" />
+      <workItem from="1572441638841" duration="2000" />
+      <workItem from="1572442365521" duration="7210000" />
+      <workItem from="1572510764083" duration="9102000" />
+      <workItem from="1572659181363" duration="35000" />
+      <workItem from="1572659238842" duration="8833000" />
+      <workItem from="1572874943816" duration="7119000" />
+      <workItem from="1572933313264" duration="508000" />
+      <workItem from="1572933902230" duration="462000" />
+      <workItem from="1572950977099" duration="19892000" />
+      <workItem from="1573118130961" duration="20000" />
+      <workItem from="1573118203254" duration="1487000" />
+      <workItem from="1573210605711" duration="2124000" />
+      <workItem from="1573553495169" duration="21194000" />
+    </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1572933766171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572933766171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+  </component>
+</project>

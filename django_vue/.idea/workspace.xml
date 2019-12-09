@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70b8a7d1-9dd0-435a-baa9-08312c951276" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.env.staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/FrontEnd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/eslintPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/README-zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/mock/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/mock/mock-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/mock/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/mock/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/npm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/api/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/api/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/api/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/assets/404_images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/assets/404_images/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Charts/hotCommunities.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Charts/mixins/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Charts/streetEvent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Hamburger/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/charts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/eventtype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/example.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/eye-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/form.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/hotcommunities.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/nested.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/streetevent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svg/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/icons/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/Link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/layout/mixin/ResizeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/router/modules/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/utils/get-page-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/charts/EventType.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/charts/HotCommunities.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/charts/StreetEvent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/dashboard/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/form/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/components/Breadcrumb.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/components/Hamburger.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/components/SvgIcon.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/utils/formatTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/utils/parseTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/tests/unit/utils/validate.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/vue.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="django_vue" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FrontEnd" />
+  </component>
+  <component name="ProjectId" id="1T8xHkByi0BibRo9TT5sh3jCMtE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FrontEnd/src/views/charts" />
+      <recent name="$PROJECT_DIR$/myapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.django_vue">
+    <configuration name="Test: django_vue" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="django_vue" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cleardatabase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/cleardatabase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/getdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_vue" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_vue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_vue.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.insert" />
+        <item itemvalue="Python.getdata" />
+        <item itemvalue="Python.cleardatabase" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Django tests.Test: django_vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70b8a7d1-9dd0-435a-baa9-08312c951276" name="Default Changelist" comment="" />
+      <created>1572855437229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572855437229</updated>
+      <workItem from="1572855438355" duration="5305000" />
+      <workItem from="1572875370921" duration="11000" />
+      <workItem from="1572875409915" duration="7895000" />
+      <workItem from="1572921772845" duration="598000" />
+      <workItem from="1572944602936" duration="3148000" />
+      <workItem from="1573024332277" duration="8076000" />
+      <workItem from="1573093719693" duration="2981000" />
+      <workItem from="1573355459631" duration="550000" />
+      <workItem from="1573449959337" duration="616000" />
+      <workItem from="1573565511796" duration="25867000" />
+      <workItem from="1573717145246" duration="398000" />
+      <workItem from="1573719087339" duration="13446000" />
+      <workItem from="1574149698268" duration="25737000" />
+      <workItem from="1574668965757" duration="37364000" />
+      <workItem from="1574822287545" duration="12328000" />
+      <workItem from="1575340546809" duration="4053000" />
+      <workItem from="1575369253580" duration="8047000" />
+      <workItem from="1575425913914" duration="1976000" />
+      <workItem from="1575441570172" duration="1393000" />
+      <workItem from="1575454384537" duration="1483000" />
+      <workItem from="1575549602778" duration="272000" />
+      <workItem from="1575564714661" duration="327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/appfront/src/main.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/mock/charts.js</url>
+          <line>360</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue</url>
+          <line>182</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/vue.config.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue</url>
+          <line>80</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/layout/components/Navbar.vue</url>
+          <line>51</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue</url>
+          <line>180</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/eventType.vue</url>
+          <line>163</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/streetEvent.vue</url>
+          <line>43</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/streetEvent.vue</url>
+          <line>148</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/completionSituation.vue</url>
+          <line>295</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/Charts/completionSituation.vue</url>
+          <line>585</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/views/form/index.vue</url>
+          <line>225</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/views/form/index.vue</url>
+          <line>195</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_vue$insert.coverage" NAME="insert Coverage Results" MODIFIED="1575455268174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/django_vue$cleardatabase.coverage" NAME="cleardatabase Coverage Results" MODIFIED="1575454397997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/django_vue$getdata.coverage" NAME="getdata Coverage Results" MODIFIED="1575454401675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/django_vue$try.coverage" NAME="try Coverage Results" MODIFIED="1574740769844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/django_vue$Test__django_vue.coverage" NAME="Test: django_vue Coverage Results" MODIFIED="1573024352853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
